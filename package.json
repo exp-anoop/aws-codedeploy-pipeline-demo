@@ -1,0 +1,12 @@
+{
+  "name": "demo-server",
+  "version": "1.0.0",
+  "description": "Dermo server",
+  "main": "app.js",
+  "author": "anoop",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
