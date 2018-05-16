@@ -2,5 +2,5 @@
 
 # This script is used to stop application
 cd /home/ubuntu/app
-pm2 stop all
-pm2 remove all
+/home/ubuntu/.nvm/versions/node/v8.11.2/bin/pm2 stop all
+/home/ubuntu/.nvm/versions/node/v8.11.2/bin/pm2 remove all
