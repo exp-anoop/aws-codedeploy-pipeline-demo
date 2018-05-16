@@ -12,3 +12,6 @@ Demo application for testing AWS Code deploy and Code pipeline
 
 ## Build 05
 - Changed folder permission
+
+## Build 06
+- App stop script disabled
