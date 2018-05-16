@@ -15,3 +15,6 @@ Demo application for testing AWS Code deploy and Code pipeline
 
 ## Build 06
 - App stop script disabled
+
+## Build 07
+- Code deploy app updated
